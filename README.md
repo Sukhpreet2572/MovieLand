@@ -27,5 +27,5 @@ MovieLand is a responsive React application that allows users to search for and 
 Clone the repository:
 
 ```bash
-git clone https://github.com/sakshi-sood/movieland.git
-cd movieland
+git clone https://github.com/Sukhpreet2572/MovieLand.git
+cd MovieLand
